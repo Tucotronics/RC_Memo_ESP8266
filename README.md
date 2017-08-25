@@ -11,7 +11,7 @@ Breve...
 
 ## Instalação
 
-1. **Baixe** a ultima versão do arquivo **Tucotronics-RC-Memo-ESP8266.zip** na [página releases](https://github.com/Tucotronics/RC-Memo-ESP8266/releases/latest).
+1. **Baixe** a ultima versão do arquivo **Tucotronics-RC-Memo-ESP8266.zip** na [página releases](https://github.com/Tucotronics/RC_Memo_ESP8266/releases/latest).
 2. Abra o [Arduino IDE](https://www.arduino.cc/en/main/software) e no menu selecione **Sketch** -> **Incluir Biblioteca** -> **Adicionar biblioteca .ZIP** selecione o arquivo **Tucotronics-RC-Memo-ESP8266.ZIP** baixado.
 3. Pronto!
 
